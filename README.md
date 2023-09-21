@@ -1,7 +1,10 @@
 # find-it.
-Having one hour breakes in between classes?\n
-Too tired to go back to hostel?\n
-Then this is for you\n
+Having one hour breakes in between classes?
+
+Too tired to go back to hostel?
+
+Then this is for you
+
 An app to display empty classroom all over the university campus
 
 
