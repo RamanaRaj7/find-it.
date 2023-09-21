@@ -1,10 +1,9 @@
 # find-it.
-Having one hour breakes in between classes?
-Too tired to go back to hostel?
-Then this is for you
+Having one hour breakes in between classes?\n
+Too tired to go back to hostel?\n
+Then this is for you\n
 An app to display empty classroom all over the university campus
 
-made with flutter
 
 
 <img width="453" alt="Screenshot 2023-09-22 at 2 00 34 AM" src="https://github.com/RamanaRaj7/find-it./assets/121662996/5c3e57c9-0bf0-4e0a-b82e-76874214decf">
